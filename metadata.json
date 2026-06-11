@@ -1,0 +1,6 @@
+{
+  "name": "OmanExam AI: High-Octane Study Suite",
+  "description": "An advanced data-driven NLP learning dashboard and analysis pipeline for Grade 12 Omani english preparation. Aligned with Oman Vision 2040 strategic trends, featuring robust lemmatization visualizers, dual-coding image generators, voice pronunciations, and smart grammar checks.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
